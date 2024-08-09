@@ -29,12 +29,12 @@ Provide instructions on how to install and set up your project locally. Include 
 
 ## Screenshots
 
-![Screenshot 1](/images/1.png)
+![Screenshot 1](/webreinvent_assignment/images/1.png)
 
-![Screenshot 2](/images/2.png)
+![Screenshot 2](/webreinvent_assignment/images/2.png)
 
-![Screenshot 3](/images/3.png)
+![Screenshot 3](/webreinvent_assignment/images/3.png)
 
-![Screenshot 4](/images/4.png)
+![Screenshot 4](/webreinvent_assignment/images/4.png)
 
-![Screenshot 5](/images/5.png)
+![Screenshot 5](/webreinvent_assignment/images/5.png)
